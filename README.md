@@ -1,5 +1,7 @@
 # medcouple_
-Medcouple measure of asymmetry and tail heaviness Use medcouple With STATA 18
+Medcouple measure of asymmetry and tail heaviness Use medcouple With STATA 19
+
+https://www.youtube.com/watch?v=idRST6Lf4jM
 
 Olah Data Semarang
 
